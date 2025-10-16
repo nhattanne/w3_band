@@ -1,0 +1,11 @@
+# Bỏ qua thư mục assets (chứa ảnh, icon, font...)
+assets/
+
+# Bỏ qua thư mục VSCode cài đặt
+.vscode/
+
+# Bỏ qua node_modules (nếu có)
+node_modules/
+
+# Bỏ qua file log
+*.log
